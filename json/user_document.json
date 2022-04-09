@@ -1,0 +1,157 @@
+{
+  "_id": "user_id",
+  "username": "username",
+  "password": "password",
+  "points": 0,
+  "level": {
+    "subtraction_equation": {
+      "level": 0.0,
+      "highest_learned_difficulty": null
+    },
+    "subtraction_phrase": {
+      "level": 0.0,
+      "highest_learned_difficulty": null
+    },
+    "multiplication_equation": {
+      "level": 0.0,
+      "highest_learned_difficulty": null
+    },
+    "multiplication_phrase": {
+      "level": 0.0,
+      "highest_learned_difficulty": null
+    }
+  },
+  "learning_styles": {
+    "traditional": 0.0,
+    "modern": 0.0
+  },
+  "exercises": {
+    "learned_exercises": {
+      "subtraction": {
+        "equation": {
+          "easy": [],
+          "intermediate": [],
+          "hard": []
+        },
+        "phrase": {
+          "easy": [],
+          "intermediate": [],
+          "hard": []
+        }
+      },
+      "multiplication": {
+        "equation": {
+          "easy": [],
+          "intermediate": [],
+          "hard": []
+        },
+        "phrase": {
+          "easy": [],
+          "intermediate": [],
+          "hard": []
+        }
+      }
+    },
+    "unlearned_exercises": {
+      "subtraction": {
+        "equation": {
+          "easy": [],
+          "intermediate": [],
+          "hard": []
+        },
+        "phrase": {
+          "easy": [],
+          "intermediate": [],
+          "hard": []
+        }
+      },
+      "multiplication": {
+        "equation": {
+          "easy": [],
+          "intermediate": [],
+          "hard": []
+        },
+        "phrase": {
+          "easy": [],
+          "intermediate": [],
+          "hard": []
+        }
+      }
+    },
+    "unseen_exercises": {
+      "subtraction": {
+        "equation": {
+          "easy": "unseen_easy_subtraction_equation_exercises",
+          "intermediate": "unseen_intermediate_subtraction_equation_exercises",
+          "hard": "unseen_hard_subtraction_equation_exercises"
+        },
+        "phrase": {
+          "easy": "unseen_easy_subtraction_phrase_exercises",
+          "intermediate": "unseen_intermediate_subtraction_phrase_exercises",
+          "hard": "unseen_hard_subtraction_phrase_exercises"
+        }
+      },
+      "multiplication": {
+        "equation": {
+          "easy": "unseen_easy_multiplication_equation_exercises",
+          "intermediate": "unseen_intermediate_multiplication_equation_exercises",
+          "hard": "unseen_hard_multiplication_equation_exercises"
+        },
+        "phrase": {
+          "easy": "unseen_easy_multiplication_phrase_exercises",
+          "intermediate": "unseen_intermediate_multiplication_phrase_exercises",
+          "hard": "unseen_hard_multiplication_phrase_exercises"
+        }
+      }
+    }
+  },
+  "questionnaire": {
+    "finished": false,
+    "questions_per_category": 3,
+    "questions": [
+      {
+        "question_id": 1,
+        "choice": null
+      },
+      {
+        "question_id": 2,
+        "choice": null
+      },
+      {
+        "question_id": 3,
+        "choice": null
+      },
+      {
+        "question_id": 4,
+        "choice": null
+      },
+      {
+        "question_id": 5,
+        "choice": null
+      },
+      {
+        "question_id": 6,
+        "choice": null
+      }
+    ]
+  },
+  "quiz": {
+    "finished": false,
+    "current_category": "subtraction_equation",
+    "exercises_per_category": 3,
+    "categories": {
+      "subtraction_equation": {
+        "current_exercise_index": 0
+      },
+      "subtraction_phrase": {
+        "current_exercise_index": 0
+      },
+      "multiplication_equation": {
+        "current_exercise_index": 0
+      },
+      "multiplication_phrase": {
+        "current_exercise_index": 0
+      }
+    }
+  }
+}

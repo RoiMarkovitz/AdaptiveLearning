@@ -1,0 +1,1712 @@
+﻿[
+  {
+    "_id": 8,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "בצנצנת יש שמונים ושבעה פקקים. רחל מוציאה ארבעים ושבעה פקקים מהצנצנת. כמה פקקים נשארו בצנצנת",
+    "solution": 40
+  },
+  {
+    "_id": 3,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      87,
+      4
+    ],
+    "solution": 83
+  },
+  {
+    "_id": 1,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      46,
+      5
+    ],
+    "solution": 41
+  },
+  {
+    "_id": 16,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "ליערה יש תשעים ושש ביצים. רינת לוקחת ממנה שלוש ביצים. כמה ביצים נשארו ליערה",
+    "solution": 93
+  },
+  {
+    "_id": 34,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לדניאל יש שישים ושלושה תפוחים ושמונה תפוזים. דניאל נותן לגל חמישים וחמישה תפוחים. כמה תפוחים נשארו לדניאל",
+    "solution": 8
+  },
+  {
+    "_id": 42,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לאהרון יש שמונים ואחד מחקים ועשרים עפרונות. הוא נותן לדורית שלושים וארבעה מחקים. כמה מחקים נשארו לאהרון",
+    "solution": 47
+  },
+  {
+    "_id": 43,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      25,
+      7
+    ],
+    "solution": 18
+  },
+  {
+    "_id": 44,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "למתן יש עשרים וחמישה מטבעות ושבעה שטרות. הוא נותן שבעה מטבעות ליותם. כמה מטבעות נשארו למתן",
+    "solution": 18
+  },
+  {
+    "_id": 50,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לרמי יש שישים ושתיים גולות ושישים ושתיים כדורים. הוא נותן לגל שלושים ושלוש גולות. כמה גולות נשארו לרמי",
+    "solution": 29
+  },
+  {
+    "_id": 51,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      91,
+      17
+    ],
+    "solution": 74
+  },
+  {
+    "_id": 55,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      31,
+      14
+    ],
+    "solution": 17
+  },
+  {
+    "_id": 64,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לעוז יש מאתיים ועשרה קלפי כדורסל ועשרה קלפי כדורגל. יש לו חמישים ושמונה קלפי כדורסל יותר מרונן. כמה קלפי כדורסל יש לרונן",
+    "solution": 152
+  },
+  {
+    "_id": 67,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      304,
+      276
+    ],
+    "solution": 28
+  },
+  {
+    "_id": 74,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "גדי אוסף בולים. לגדי יש מאתיים שלושים ואחד בולים וחמישים מטבעות. אמיר נתן לגדי עוד כמה בולים. עכשיו לגדי יש שלוש מאות ושניים-עשר בולים. כמה בולים אמיר נתן לגדי",
+    "solution": 81
+  },
+  {
+    "_id": 78,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לאיתן יש מספר גולות וחמישים סוכריות. הוא קונה ארבע מאות שמונים ותשע גולות. עכשיו יש לו אלפיים שבע מאות שבעים ושמונה גולות סך הכל. כמה גולות היו לאיתן בהתחלה",
+    "solution": 2289
+  },
+  {
+    "_id": 79,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      344,
+      136
+    ],
+    "solution": 208
+  },
+  {
+    "_id": 83,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      223,
+      95
+    ],
+    "solution": 128
+  },
+  {
+    "_id": 84,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לקרן יש מאתיים עשרים ושלוש משרוקיות ועשר טבעות. לקרן יש תשעים וחמש משרוקיות יותר מהראל. כמה משרוקיות יש להראל",
+    "solution": 128
+  },
+  {
+    "_id": 89,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      750,
+      532
+    ],
+    "solution": 218
+  },
+  {
+    "_id": 92,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "יש שלוש ביצים בכל קופסא. כמה ביצים יש בשתי קופסאות",
+    "solution": 6
+  },
+  {
+    "_id": 94,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "כל בקבוק מים עולה שני שקלים. כמה עולים שישה בקבוקי מים",
+    "solution": 12
+  },
+  {
+    "_id": 95,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      3,
+      4
+    ],
+    "solution": 12
+  },
+  {
+    "_id": 96,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לכל ילד יש שלושה תפוזים. אם יש ארבעה ילדים, כמה תפוזים יש בסך הכל",
+    "solution": 12
+  },
+  {
+    "_id": 100,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "כל אגס עולה חמישה שקלים. כמה עולים חמישה אגסים",
+    "solution": 25
+  },
+  {
+    "_id": 102,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "מיכל הלכה לחנות שמונה פעמים בחודש האחרון. היא קונה שני תפוזים כל פעם שהיא הולכת לחנות. כמה תפוזים מיכל קנתה בחודש האחרון",
+    "solution": 16
+  },
+  {
+    "_id": 103,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      9,
+      4
+    ],
+    "solution": 36
+  },
+  {
+    "_id": 133,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      14,
+      6
+    ],
+    "solution": 84
+  },
+  {
+    "_id": 142,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לקובי יש עשרים כלבות ושלושה כלבים. לכל כלבה יש חמישה גורים. כמה גורים יש לקובי",
+    "solution": 75
+  },
+  {
+    "_id": 153,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      21,
+      8
+    ],
+    "solution": 168
+  },
+  {
+    "_id": 156,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לחני יש חדר באורך של תשעה מטרים ורוחב של חמישה-עשר מטרים. מה גודל השטיח שחני צריכה כדי לכסות את כל הרצפה בחדר שלה",
+    "solution": 135
+  },
+  {
+    "_id": 161,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      6,
+      34
+    ],
+    "solution": 204
+  },
+  {
+    "_id": 162,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לדן יש חדר באורך של שישה מטרים ורוחב של שלושים וארבעה מטרים. מה גודל השטיח שדן צריך כדי לכסות את כל הרצפה בחדר שלו",
+    "solution": 204
+  },
+  {
+    "_id": 169,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      9,
+      99
+    ],
+    "solution": 891
+  },
+  {
+    "_id": 170,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לספיר יש תשע קופסאות של אגוזים. בכל קופסא יש תשעים ותשעה אגוזים. יש תשעים ותשע קופסאות סך הכל. כמה אגוזים יש לספיר",
+    "solution": 891
+  },
+  {
+    "_id": 172,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "סוס דוהר קילומטר אחד כל ארבע דקות. הסוס דהר חמישים ושלושה קילומטרים. כמה דקות דהר הסוס",
+    "solution": 212
+  },
+  {
+    "_id": 174,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לחגית יש חדר באורך של שבעה מטרים ורוחב של תשעה-עשר מטרים. מה גודל השטיח שחגית צריכה כדי לכסות את כל הרצפה בחדר שלה",
+    "solution": 133
+  },
+  {
+    "_id": 177,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      43,
+      3
+    ],
+    "solution": 129
+  },
+  {
+    "_id": 178,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "מכונית נוסעת קילומטר אחד כל שלוש דקות. המכונית נוסעת ארבעים ושלושה קילומטרים. כמה דקות נסעה המכונית",
+    "solution": 129
+  },
+  {
+    "_id": 2,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "בצנצנת יש ארבעים ושש בננות. דני מוציא חמש בננות מהצנצנת. כמה בננות נשארו בצנצנת",
+    "solution": 41
+  },
+  {
+    "_id": 4,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "בקלמר יש שמונים ושבעה עפרונות. אבי לוקח ארבעה עפרונות מהקלמר. כמה עפרונות נשארו בקלמר",
+    "solution": 83
+  },
+  {
+    "_id": 7,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      87,
+      47
+    ],
+    "solution": 40
+  },
+  {
+    "_id": 11,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      49,
+      44
+    ],
+    "solution": 5
+  },
+  {
+    "_id": 12,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "בוריס שוקל ארבעים ותשעה קילו. עידן שוקל ארבעים וארבעה קילו. בכמה כבד יותר בוריס מעידן",
+    "solution": 5
+  },
+  {
+    "_id": 13,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      57,
+      22
+    ],
+    "solution": 35
+  },
+  {
+    "_id": 20,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "יש ארבעים ושבע ביצים בקופסא. דקל מוציא חמש ביצים מהקופסא. כמה ביצים נשארו בקופסא",
+    "solution": 42
+  },
+  {
+    "_id": 21,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      27,
+      7
+    ],
+    "solution": 20
+  },
+  {
+    "_id": 22,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "בצנצנת יש עשרים ושבע ביצים. דוד מוציא שבע ביצים מהצנצנת. כמה ביצים נשארו בצנצנת",
+    "solution": 20
+  },
+  {
+    "_id": 23,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      79,
+      4
+    ],
+    "solution": 75
+  },
+  {
+    "_id": 26,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "להדס יש שמונים ושבעה גירים צבעוניים. שבעה מהם נאכלים על ידי היפופוטם. כמה גירים נשארו להדס",
+    "solution": 80
+  },
+  {
+    "_id": 30,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "יש תשעים ושישה תפוזים בקופסא. עומרי מוציא ארבעים וחמישה תפוזים מהקופסא. כמה תפוזים נשארו בקופסא",
+    "solution": 51
+  },
+  {
+    "_id": 35,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      76,
+      59
+    ],
+    "solution": 17
+  },
+  {
+    "_id": 38,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לבר יש שלושים וארבעה שקלים ועשרה דולרים. בר נותנת לשחר שמונה שקלים. כמה שקלים נשארו לבר",
+    "solution": 26
+  },
+  {
+    "_id": 40,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לנדב יש שבעים תפוזים ושבעים קלמנטינות. נדב נותן לאלעד תשעה-עשר תפוזים. כמה תפוזים נשארו לנדב",
+    "solution": 51
+  },
+  {
+    "_id": 45,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      82,
+      9
+    ],
+    "solution": 73
+  },
+  {
+    "_id": 47,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      74,
+      59
+    ],
+    "solution": 15
+  },
+  {
+    "_id": 53,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      96,
+      9
+    ],
+    "solution": 87
+  },
+  {
+    "_id": 56,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "העיפרון של עידו באורך של שלושים ואחד סנטימטרים. עידו מחדד את העיפרון שלו. עכשיו האורך של העיפרון הוא ארבעה-עשר סנטימטרים. בכמה סנטימטרים התקצר העיפרון של עידו",
+    "solution": 17
+  },
+  {
+    "_id": 61,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      142,
+      78
+    ],
+    "solution": 64
+  },
+  {
+    "_id": 62,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לערן היו שבעים ושמונה ספרים וארבעים ושתיים מחברות. עירית נתנה לערן עוד כמה ספרים. עכשיו לערן יש מאה ארבעים ושניים ספרים. כמה ספרים עירית נתנה לערן",
+    "solution": 64
+  },
+  {
+    "_id": 66,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לאליאור היו חמישים ושישה תפוחים ועשרים ושתיים קלמנטינות. כמה עוד תפוחים צריך אליאור לאסוף כדי שיהיו לו מאה וחמישה תפוחים",
+    "solution": 49
+  },
+  {
+    "_id": 68,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "ניר אוסף קלפי כדורסל. לניר היו מאתיים שבעים ושישה קלפי כדורסל וחמש קוביות. דני נתן לניר עוד כמה קלפי כדורסל. עכשיו לניר יש שלוש מאות וארבעה קלפי כדורסל. כמה קלפי כדורסל דני נתן לניר",
+    "solution": 28
+  },
+  {
+    "_id": 69,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      117,
+      40
+    ],
+    "solution": 77
+  },
+  {
+    "_id": 70,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "יש ארבעים בנים, מספר בנות ומספר חיזרים במגרש המשחקים. סך הכל יש מאה ושבעה-עשר ילדים במגרש המשחקים. כמה בנות יש במגרש המשחקים",
+    "solution": 77
+  },
+  {
+    "_id": 73,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      312,
+      231
+    ],
+    "solution": 81
+  },
+  {
+    "_id": 77,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      2778,
+      489
+    ],
+    "solution": 2289
+  },
+  {
+    "_id": 82,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "יונתן צריך לקרוא חמש מאות שישים ושלושה עמודים בספר ולצחצח שיניים. הוא כבר קרא מאה ארבעים ושבעה עמודים. כמה עמודים נשארו ליונתן לקרוא",
+    "solution": 416
+  },
+  {
+    "_id": 87,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      127,
+      88
+    ],
+    "solution": 39
+  },
+  {
+    "_id": 93,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      2,
+      6
+    ],
+    "solution": 12
+  },
+  {
+    "_id": 98,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "כל בננה עולה חמישה שקלים. כמה עולות ארבע בננות",
+    "solution": 20
+  },
+  {
+    "_id": 106,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "למיכאל יש שבע קופסאות של גירים. כל קופסא מכילה חמישה גירים. כמה גירים יש למיכאל",
+    "solution": 35
+  },
+  {
+    "_id": 107,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      2,
+      9
+    ],
+    "solution": 18
+  },
+  {
+    "_id": 108,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לכל ילד יש שני ממתקים. אם יש תשעה ילדים, כמה ממתקים יש סך הכל",
+    "solution": 18
+  },
+  {
+    "_id": 109,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      6,
+      4
+    ],
+    "solution": 24
+  },
+  {
+    "_id": 117,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      4,
+      10
+    ],
+    "solution": 40
+  },
+  {
+    "_id": 119,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      2,
+      10
+    ],
+    "solution": 20
+  },
+  {
+    "_id": 120,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "ערד הלך לחנות פעמיים בחודש האחרון. הוא קונה עשר בננות כל פעם שהוא הולך לחנות. כמה בננות ערד קנה בחודש האחרון",
+    "solution": 20
+  },
+  {
+    "_id": 123,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      8,
+      7
+    ],
+    "solution": 56
+  },
+  {
+    "_id": 126,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "בכל קופסא יש תשע גומיות ושלושה תפוחים. כמה גומיות יש בשש קופסאות",
+    "solution": 54
+  },
+  {
+    "_id": 127,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      9,
+      5
+    ],
+    "solution": 45
+  },
+  {
+    "_id": 134,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "באוטובוס יש ארבעה-עשר מושבים וארבעה-עשר חלונות. בכל מושב ניתן להושיב עד שישה אנשים. מהי כמות האנשים המקסימלית שניתן להושיב באוטובוס",
+    "solution": 84
+  },
+  {
+    "_id": 140,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לרונית יש עשרים חתולות ושלושה חתולים. לכל חתולה יש חמישה גורים. כמה גורים יש לרונית",
+    "solution": 100
+  },
+  {
+    "_id": 146,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "דניאל בן ארבעה-עשר. סבא של דניאל מבוגר פי שישה ממנו. בן כמה סבא של דניאל",
+    "solution": 84
+  },
+  {
+    "_id": 147,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      4,
+      17
+    ],
+    "solution": 68
+  },
+  {
+    "_id": 151,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      99,
+      2
+    ],
+    "solution": 198
+  },
+  {
+    "_id": 155,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      9,
+      15
+    ],
+    "solution": 135
+  },
+  {
+    "_id": 157,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      6,
+      71
+    ],
+    "solution": 426
+  },
+  {
+    "_id": 159,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      8,
+      45
+    ],
+    "solution": 360
+  },
+  {
+    "_id": 160,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "כלב הולך קילומטר אחד כל שמונה דקות. הכלב הלך ארבעים וחמישה קילומטרים. כמה דקות הלך הכלב",
+    "solution": 360
+  },
+  {
+    "_id": 163,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      37,
+      8
+    ],
+    "solution": 296
+  },
+  {
+    "_id": 173,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      7,
+      19
+    ],
+    "solution": 133
+  },
+  {
+    "_id": 179,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      26,
+      8
+    ],
+    "solution": 208
+  },
+  {
+    "_id": 5,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      75,
+      52
+    ],
+    "solution": 23
+  },
+  {
+    "_id": 6,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לטל יש שבעים וחמישה תפוחים. היא נותנת חמישים ושניים מהם לאלעד. כמה תפוחים נשארו לטל",
+    "solution": 23
+  },
+  {
+    "_id": 9,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      67,
+      52
+    ],
+    "solution": 15
+  },
+  {
+    "_id": 14,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לרמי יש חמישים ושבע סוכריות. רוני לוקחת ממנו עשרים ושתיים סוכריות. כמה סוכריות נשארו לרמי",
+    "solution": 35
+  },
+  {
+    "_id": 15,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      96,
+      3
+    ],
+    "solution": 93
+  },
+  {
+    "_id": 17,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      69,
+      51
+    ],
+    "solution": 18
+  },
+  {
+    "_id": 18,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "רועי שוקל שישים ותשעה קילו. דימה שוקל חמישים ואחד קילו. בכמה כבד יותר רועי מדימה",
+    "solution": 18
+  },
+  {
+    "_id": 24,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "בקופסא יש שבעים ותשעה עפרונות. יונתן מוציא ארבעה עפרונות מהקופסא. כמה עפרונות נשארו בקופסא",
+    "solution": 75
+  },
+  {
+    "_id": 29,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      96,
+      45
+    ],
+    "solution": 51
+  },
+  {
+    "_id": 31,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      67,
+      9
+    ],
+    "solution": 58
+  },
+  {
+    "_id": 36,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לבן יש שבעים ושש מדבקות וארבע גולות. תום לוקח חמישים ותשע מדבקות מבן. כמה מדבקות נשארו לבן",
+    "solution": 17
+  },
+  {
+    "_id": 37,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      34,
+      8
+    ],
+    "solution": 26
+  },
+  {
+    "_id": 39,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      70,
+      19
+    ],
+    "solution": 51
+  },
+  {
+    "_id": 41,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      81,
+      34
+    ],
+    "solution": 47
+  },
+  {
+    "_id": 57,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      42,
+      29
+    ],
+    "solution": 13
+  },
+  {
+    "_id": 58,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "עשרים ותשע ציפורים יושבות על עץ. עוד כמה ציפורים מצטרפות. לאחר מיכן יושבות על העץ ארבעים ושתיים ציפורים. כמה ציפורים הצטרפו לשבת על העץ",
+    "solution": 13
+  },
+  {
+    "_id": 59,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      44,
+      18
+    ],
+    "solution": 26
+  },
+  {
+    "_id": 71,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      125,
+      64
+    ],
+    "solution": 61
+  },
+  {
+    "_id": 75,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      126,
+      81
+    ],
+    "solution": 45
+  },
+  {
+    "_id": 76,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "יש שמונים ואחת מכוניות צעצוע ושמונים אוטובוסים. כמה עוד מכוניות צעצוע צריך חן לאסוף כדי שיהיו לו מאה עשרים ושש",
+    "solution": 45
+  },
+  {
+    "_id": 85,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      3409,
+      145
+    ],
+    "solution": 3264
+  },
+  {
+    "_id": 86,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "בצנצנת יש שלושת אלפים ארבע מאות ותשעה ממתקים ותשעה כפתורים. מאה ארבעים וחמישה ממתקים הם בצבע אדום. שאר הממתקים בצבע כחול. כמה ממתקים הם בצבע כחול",
+    "solution": 3264
+  },
+  {
+    "_id": 91,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      3,
+      2
+    ],
+    "solution": 6
+  },
+  {
+    "_id": 97,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      5,
+      4
+    ],
+    "solution": 20
+  },
+  {
+    "_id": 105,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      7,
+      5
+    ],
+    "solution": 35
+  },
+  {
+    "_id": 112,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לענבר יש שלוש קופסאות של עפרונות. כל קופסא מכילה תשעה עפרונות. כמה עפרונות יש לענבר",
+    "solution": 27
+  },
+  {
+    "_id": 114,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "יש שלוש גולות בכל קופסא. כמה גולות יש בשש קופסאות",
+    "solution": 18
+  },
+  {
+    "_id": 118,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לגדי יש ארבע קופסאות של מחקים. בכל קופסא יש עשרה מחקים. כמה מחקים יש לגדי",
+    "solution": 40
+  },
+  {
+    "_id": 121,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      7,
+      7
+    ],
+    "solution": 49
+  },
+  {
+    "_id": 124,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לאדיר יש שמונה קופסאות של גולות ואגוזים. בכל קופסא יש שבעה אגוזים ושבע גולות. כמה אגוזים יש לאדיר",
+    "solution": 56
+  },
+  {
+    "_id": 125,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      9,
+      6
+    ],
+    "solution": 54
+  },
+  {
+    "_id": 130,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לדבורה יש שש רגליים ושתי עיניים. כמה רגליים יש לשמונה דבורים",
+    "solution": 48
+  },
+  {
+    "_id": 131,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      15,
+      3
+    ],
+    "solution": 45
+  },
+  {
+    "_id": 136,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לעכביש יש שתיים-עשרה רגליים וארבע עיניים. כמה רגליים יש לשמונה עכבישים",
+    "solution": 96
+  },
+  {
+    "_id": 138,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לקיפוד יש שניים-עשר קוצים ושתי עיניים. כמה קוצים יש לחמישה קיפודים",
+    "solution": 60
+  },
+  {
+    "_id": 139,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      20,
+      5
+    ],
+    "solution": 100
+  },
+  {
+    "_id": 141,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      15,
+      5
+    ],
+    "solution": 75
+  },
+  {
+    "_id": 143,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      11,
+      8
+    ],
+    "solution": 88
+  },
+  {
+    "_id": 144,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "בכל קופסא יש שמונה טבעות ואחד-עשר צמידים. כמה טבעות יש באחת-עשרה קופסאות",
+    "solution": 88
+  },
+  {
+    "_id": 148,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "טל קוראת ארבעה ספרים. בכל ספר יש שבעה-עשר פרקים וארבעים עמודים. טל סיימה לקרוא את הספרים. כמה פרקים טל קראה",
+    "solution": 68
+  },
+  {
+    "_id": 150,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "בסלסלה יש שתי ביצים וחמש לחמניות. כמה ביצים יש בעשרים ושלוש סלסלות",
+    "solution": 46
+  },
+  {
+    "_id": 152,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לרפי יש תשעים ותשע קופסאות של מדבקות. בכל קופסא יש שני כרטיסים. יש מאה קופסאות סך הכל. כמה מדבקות יש לרפי",
+    "solution": 198
+  },
+  {
+    "_id": 154,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "יואב הולך קילומטר אחד כל שמונה דקות. יואב הלך עשרים ואחד קילומטרים. כמה דקות הלך יואב",
+    "solution": 168
+  },
+  {
+    "_id": 165,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      55,
+      8
+    ],
+    "solution": 440
+  },
+  {
+    "_id": 166,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "היפופוטם הולך קילומטר אחד כל שמונה דקות. ההיפופוטם הלך חמישים וחמישה קילומטרים. כמה דקות הלך ההיפוטוטם",
+    "solution": 440
+  },
+  {
+    "_id": 171,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      4,
+      53
+    ],
+    "solution": 212
+  },
+  {
+    "_id": 176,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לנטלי יש שבע קופסאות של עפרונות. בכל קופסא יש עשרים ושבעה עפרונות. יש שבע קופסאות סך הכל. כמה עפרונות יש לנטלי",
+    "solution": 139
+  },
+  {
+    "_id": 10,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "גיא שוקל שישים ושבעה קילו. רונן שוקל חמישים ושניים קילו. בכמה כבד יותר גיא מרונן",
+    "solution": 15
+  },
+  {
+    "_id": 19,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      47,
+      5
+    ],
+    "solution": 42
+  },
+  {
+    "_id": 25,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      87,
+      7
+    ],
+    "solution": 80
+  },
+  {
+    "_id": 27,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      95,
+      3
+    ],
+    "solution": 92
+  },
+  {
+    "_id": 28,
+    "difficulty": "easy",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לעומר יש תשעים וחמישה ממתקים. הוא נותן שלושה ממתקים למריה. כמה ממתקים נשארו לעומר",
+    "solution": 92
+  },
+  {
+    "_id": 32,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לגדי יש שישים ושבעה קלפים בצבע כחול ותשעה קלפים בצבע כתום. דורין לוקחת מגדי תשעה קלפים בצבע כחול. כמה קלפים בצבע כחול נשארו לגדי",
+    "solution": 58
+  },
+  {
+    "_id": 33,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      63,
+      55
+    ],
+    "solution": 8
+  },
+  {
+    "_id": 46,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לאריאל יש שמונים ושתיים חפיסות מסטיקים ושמונה חפיסות קלפים. הוא נותן לאוהד תשע חפיסות מסטיקים. כמה חפיסות מסטיקים נשארו לאריאל",
+    "solution": 73
+  },
+  {
+    "_id": 48,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לעידן יש שבעים וארבעה בוטנים וארבעים ותשעה אגוזים. הוא מאבד חמישים ותשעה בוטנים. כמה בוטנים נשארו לעידן",
+    "solution": 15
+  },
+  {
+    "_id": 49,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      62,
+      33
+    ],
+    "solution": 29
+  },
+  {
+    "_id": 52,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "למורן יש תשעים ואחד קלפים בצבע ורוד ושבעה-עשר קלפים בצבע ירוק. היפופוטם אוכל שבעה-עשר קלפים בצבע ורוד. כמה קלפים בצבע ורוד נשארו למורן",
+    "solution": 74
+  },
+  {
+    "_id": 54,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "תשעה ילדים נוסעים באוטובוס. האוטובוס עוצר ועוד כמה ילדים נכנסים אליו. לאחר מיכן נוסעים באוטובוס תשעים ושישה ילדים. כמה ילדים נכנסו לאוטובוס כאשר הוא עצר",
+    "solution": 87
+  },
+  {
+    "_id": 60,
+    "difficulty": "intermediate",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לספיר היו שמונה-עשר מסטיקים. אח שלה נתן לה עוד כמה מסטיקים. עכשיו לספיר יש ארבעים וארבעה מסטיקים סך הכל. כמה מסטיקים אח של ספיר נתן לה",
+    "solution": 26
+  },
+  {
+    "_id": 63,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      210,
+      58
+    ],
+    "solution": 152
+  },
+  {
+    "_id": 65,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      105,
+      56
+    ],
+    "solution": 49
+  },
+  {
+    "_id": 72,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "אפרת רוצה לבנות גדר מסביב לגינה שלה. היא צריכה מאה עשרים וחמש אבנים כדי להשלים את הגדר. יש לאפרת שישים וארבע אבנים. כמה אבנים נוספות אפרת צריכה כדי להשלים את הגדר",
+    "solution": 61
+  },
+  {
+    "_id": 80,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לאופיר יש מספר אגוזים ועשרה בוטנים. הוא קונה מאה שלושים ושישה אגוזים. עכשיו יש לו שלוש מאות ארבעים וארבעה אגוזים סך הכל. כמה אגוזים היו לאופיר בהתחלה",
+    "solution": 208
+  },
+  {
+    "_id": 81,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "equation",
+    "question": [
+      563,
+      147
+    ],
+    "solution": 416
+  },
+  {
+    "_id": 88,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "לאיכר היו מאה עשרים ושבעה תפוחים ועשרים ושתיים בננות. הוא נתן שמונים ושמונה תפוחים לשכן שלו. כמה תפוחים יש לאיכר כרגע",
+    "solution": 39
+  },
+  {
+    "_id": 90,
+    "difficulty": "hard",
+    "type": "subtraction",
+    "format": "phrase",
+    "question": "חמש מאות שלושים ושניים אנשים צופים בסרט בקולנוע. בקולנוע יש שבע מאות חמישים מושבים ומאתיים מנורות. מה מספר המושבים הריקים בקולנוע",
+    "solution": 218
+  },
+  {
+    "_id": 99,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      5,
+      5
+    ],
+    "solution": 25
+  },
+  {
+    "_id": 101,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      8,
+      2
+    ],
+    "solution": 16
+  },
+  {
+    "_id": 104,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "כל כרטיס עולה תשעה שקלים. כמה עולים ארבעה כרטיסים",
+    "solution": 36
+  },
+  {
+    "_id": 110,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לאורן יש שש קופסאות של בוטנים. כל קופסא מכילה ארבעה בוטנים. כמה בוטנים יש לאורן",
+    "solution": 24
+  },
+  {
+    "_id": 111,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      3,
+      9
+    ],
+    "solution": 27
+  },
+  {
+    "_id": 113,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      6,
+      3
+    ],
+    "solution": 18
+  },
+  {
+    "_id": 115,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      5,
+      3
+    ],
+    "solution": 15
+  },
+  {
+    "_id": 116,
+    "difficulty": "easy",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לגיא יש חמש קופסאות ביצים. בכל קופסא יש שלוש ביצים. כמה ביצים יש לגיא",
+    "solution": 15
+  },
+  {
+    "_id": 122,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לשרה יש שבע קופסאות של תפוחים ותפוזים. בכל קופסא יש שבעה תפוחים ושבעה תפוזים. כמה תפוחים יש לשרה",
+    "solution": 49
+  },
+  {
+    "_id": 128,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לאביחי יש תשע קופסאות של כרטיסים ומדבקות. בכל קופסא יש חמישה כרטיסים ועשר מדבקות. כמה כרטיסים יש לאביחי",
+    "solution": 45
+  },
+  {
+    "_id": 129,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      6,
+      8
+    ],
+    "solution": 48
+  },
+  {
+    "_id": 132,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לאריאל יש שלושה פרפרים עם חמש-עשרה נקודות אדומות וחמישה פרפרים עם שבע נקודות כחולות. כמה נקודות אדומות יש לכל הפרפרים של אריאל",
+    "solution": 45
+  },
+  {
+    "_id": 135,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      12,
+      8
+    ],
+    "solution": 96
+  },
+  {
+    "_id": 137,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      12,
+      5
+    ],
+    "solution": 60
+  },
+  {
+    "_id": 145,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      14,
+      6
+    ],
+    "solution": 84
+  },
+  {
+    "_id": 149,
+    "difficulty": "intermediate",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      2,
+      23
+    ],
+    "solution": 46
+  },
+  {
+    "_id": 158,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לנועם יש שש קופסאות של סוכריות. בכל קופסא יש שבעים ואחת סוכריות. יש חמישים קופסאות סך הכל. כמה סוכריות יש לנועם",
+    "solution": 426
+  },
+  {
+    "_id": 164,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לעידן יש שמונה קופסאות של מסטיקים. בכל קופסא יש שלושים ושבעה מסטיקים. יש שלושים ושבע קופסאות סך הכל. כמה מסטיקים יש לעידן",
+    "solution": 296
+  },
+  {
+    "_id": 167,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      8,
+      33
+    ],
+    "solution": 264
+  },
+  {
+    "_id": 168,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "לדוד יש חדר באורך של שמונה מטרים ורוחב של שלושים ושלושה מטרים. מה גודל השטיח שדוד צריך כדי לכסות את כל הרצפה בחדר שלו",
+    "solution": 264
+  },
+  {
+    "_id": 175,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "equation",
+    "question": [
+      27,
+      7
+    ],
+    "solution": 139
+  },
+  {
+    "_id": 180,
+    "difficulty": "hard",
+    "type": "multiplication",
+    "format": "phrase",
+    "question": "למאיה יש חדר באורך של שמונה מטרים ורוחב של עשרים ושישה מטרים. מה גודל השטיח שמאיה צריכה כדי לכסות את כל הרצפה בחדר שלה",
+    "solution": 208
+  }
+]
